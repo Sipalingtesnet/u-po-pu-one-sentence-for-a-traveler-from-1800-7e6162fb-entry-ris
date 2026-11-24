@@ -4,7 +4,7 @@
 import os
 
 SENTENCE = (
-    "One great open book holds every book and letter in the world, and your "
+    "One great hall holds every book and every voice in the world, and your "
     "own letter is read in any town before you lift your pen."
 )
 
