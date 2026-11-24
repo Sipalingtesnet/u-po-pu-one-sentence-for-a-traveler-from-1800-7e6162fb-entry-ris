@@ -4,8 +4,8 @@
 import os
 
 SENTENCE = (
-    "One table holds every book and letter in the world, and your own letter "
-    "reaches any town before you lift your pen."
+    "One great open book holds every book and letter in the world, and your "
+    "own letter is read in any town before you lift your pen."
 )
 
 OUTPUT_DIR = "/output"
